@@ -41,4 +41,9 @@
     <hr/>
 {{ end }}
 
+<p><em>
+    Generated with <code>gen-crd-api-reference-docs</code>
+    on git commit <code>$Id$</code>.
+</em></p>
+
 {{ end }}
